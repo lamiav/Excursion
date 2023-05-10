@@ -5,13 +5,35 @@ html {
     font-size: 16px;
 }
 
+h1, h2, p {
+    color: white;
+}
+
+/*Main Section*/
+
 h1 {
     font-size: 3.125rem;
     font-weight: normal;
-    color: white;
+}
+
+video {
+    display: block;
+    margin: 20px auto;
 }
 
 .link {
     color: aquamarine;
     text-decoration: underline;
+}
+
+/*First Supporting Section*/
+
+h2 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.icon {
+    display: block;
+    margin: 15px auto;
 }
