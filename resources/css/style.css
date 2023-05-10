@@ -26,7 +26,7 @@ video {
     text-decoration: underline;
 }
 
-/*First Supporting Section*/
+/* Supporting Sections */
 
 h2 {
     font-size: 2.625rem;
@@ -36,4 +36,12 @@ h2 {
 .icon {
     display: block;
     margin: 15px auto;
+}
+
+/*Footer*/
+
+footer {
+    text-align: right;
+    color: gray;
+    margin-top: 15px;
 }
